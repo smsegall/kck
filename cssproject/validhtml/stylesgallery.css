@@ -2,12 +2,10 @@ body {
   color: black;
 }
 
-h1 {
-  color: red;
-}
-
-@import url('https://fonts.googleapis.com/css?family=Permanent_Marker');
+<style>
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+</style>
 
 h1 {
-  font-family: "Permanent Marker";
+  font-family: 'Permanent Marker', cursive; color: red;
 }
