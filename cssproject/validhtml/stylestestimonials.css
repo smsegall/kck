@@ -1,15 +1,11 @@
-body {
-  color: black;
-}
-
 <style>
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Rock+Salt');
 </style>
 
 h1 {
-  font-family: 'Permanent Marker', cursive; color: red;
+  font-family:  'Rock Salt', cursive; color: red;
 }
 
-h2 {
-  font-family: 'Permanent Marker', cursive; color: black;
+h2  {
+  font-family:  'Permanent Marker', cursive; color: black;
 }
