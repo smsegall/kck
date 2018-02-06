@@ -2,12 +2,8 @@ h1 {
   font-family:  'Rock Salt', cursive; color: red;
 }
 
-h2  {
-  font-family: 'Permanent Marker', cursive; color: black;
-}
-
-h3  {
-  font-family: 'Permanent Marker', cursive; color: black;
+h2, h3  {
+  font-family: 'Permanent Marker', cursive; color:black;
 }
 
 footer {
