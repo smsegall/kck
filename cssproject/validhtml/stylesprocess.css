@@ -9,3 +9,10 @@ h2  {
 h3  {
   font-family: 'Permanent Marker', cursive; color: black;
 }
+
+footer {
+  color: black;
+  text-align: center;
+  background: red;
+  padding: 2rem 0;
+}
