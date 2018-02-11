@@ -17,11 +17,13 @@ h2  {
 }
 
 h1, h2, h3 {
+  text-align: center;
   color:white;
 }
 
 main {
-  display: table; 
+    text-align: center;
+    display: table; 
     margin: 0px auto 0px auto;
     padding:5px;;background-color:black; color:white;
 }
