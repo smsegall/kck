@@ -16,6 +16,10 @@ h2  {
   font-family:  'Permanent Marker', cursive; color: black;
 }
 
+h1, h2, h3 {
+  color:white;
+}
+
 main {
   display: table; 
     margin: 0px auto 0px auto;
