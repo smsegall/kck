@@ -2,6 +2,9 @@ body {
   background-image: url("https://preview.ibb.co/nzHofn/cory_1024x1024.jpg");
 }
 
+.center {
+    text-align: center;
+}
 
 h1 {
   font-family:  'Rock Salt', cursive; color: red;
