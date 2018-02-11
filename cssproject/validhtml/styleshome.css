@@ -7,16 +7,16 @@ body {
 }
 
 h1 {
-  font-family:  'Rock Salt', cursive; color: white;
+  font-family:  'Rock Salt', cursive; color: red;
 }
 
 h2  {
-  font-family:  'Permanent Marker', cursive; color: black;
+  font-family:  'Permanent Marker', cursive;
 }
 
 h1, h2, h3 {
   text-align: center;
-  color:white;
+  color:red;
 }
 
 body {
