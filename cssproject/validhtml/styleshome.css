@@ -16,6 +16,12 @@ h2  {
   font-family:  'Permanent Marker', cursive; color: black;
 }
 
+main {
+  display: table; 
+    margin: 0px auto 0px auto;
+    padding:5px;;background-color:black; color:white;
+}
+
 footer {
     display: table; 
     margin: 0px auto 0px auto;
