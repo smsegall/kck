@@ -24,20 +24,21 @@ h1, h2, h3 {
 
 #sectionA
 {
-   float:left;
-   width: 50%;
+  display: table; 
+    margin: 0px auto 0px auto;
+    padding:5px;;background-color:black; color:white;
 }
 
 #sectionB
 {
    float:left;
-   width:50%;
+   width: 50%;
 }
 
 #sectionC
 {
    float:right;
-   width: 50%;
+   width:50%;
 }
 
 footer {
