@@ -2,6 +2,11 @@ body {
   background-image: url("https://preview.ibb.co/nzHofn/cory_1024x1024.jpg");
 }
 
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+
 header {
     text-align:center;
     display: table; 
