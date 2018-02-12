@@ -2,6 +2,12 @@ body {
   background-image: url("https://preview.ibb.co/nzHofn/cory_1024x1024.jpg");
 }
 
+header {
+  display: table; 
+    margin: 0px auto 0px auto;
+    padding:10px;;background-color:red; color:white;
+}
+
 h1 {
   font-family:  'Rock Salt', cursive;
 }
