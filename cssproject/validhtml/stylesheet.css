@@ -29,6 +29,23 @@ main  {
     padding:5px;;background-color:black; color:white;
 }
 
+#sectionA
+{
+   float:left;
+   width: 50%;
+}
+#sectionB
+{
+   float:left;
+   width:50%;
+}
+
+#sectionB
+{
+   float:right;
+   width: 50%;
+}
+
 footer {
     display: table; 
     margin: 0px auto 0px auto;
