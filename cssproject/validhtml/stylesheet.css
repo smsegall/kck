@@ -30,13 +30,13 @@ h1, h2, h3 {
 
 #sectionA
 {
-   float:left;
-   width: 20%;
+   float:center;
+   width: 50%;
 }
 #sectionB
 {
-   float:left;
-   width: 80%;
+   float:center;
+   width: 50%;
 }
 
 
