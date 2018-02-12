@@ -3,9 +3,10 @@ body {
 }
 
 header {
-  display: table; 
+    text-align:center;
+    display: table; 
     margin: 0px auto 0px auto;
-    padding:10px;;background-color:black; color:white;
+    padding:5px;;background-color:black; color:white;
 }
 
 h1 {
