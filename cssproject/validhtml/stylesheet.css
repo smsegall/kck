@@ -31,12 +31,12 @@ main {
 
 #sectionA
 {
-  text-align: center;
+  text-align:center;
    
 }
 #sectionB
 {
-  text-align-center;
+  text-align:center;
    float:center;
 }
 
