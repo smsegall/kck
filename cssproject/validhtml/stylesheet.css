@@ -42,9 +42,8 @@ main {
 
 
 footer {
-  position:absolute;
     display: table; 
-    margin: 0px auto 0px auto;
+    margin: 20px auto 20px auto;
     padding:5px;;background-color:black; color:white;
 }
 
